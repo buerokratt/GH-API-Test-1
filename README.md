@@ -1,4 +1,4 @@
-# GH-API-Test-1
-For testing GitHub API
+# Module repo
+*GH-API-Test-1*
 
-# Testing purposes only
+For testing GitHub API
